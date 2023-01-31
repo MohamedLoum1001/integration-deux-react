@@ -1,0 +1,36 @@
+@media (max-width:1700px) {
+	main .container {
+		max-width: 100%;
+		padding: 0 150px;
+	}
+
+}
+
+@media (max-width:768px) {
+	.prod .icon {
+		margin-top: 30%;
+		margin-left: 7%;
+	}
+}
+
+@media (max-width:500px) {
+	.home h1 {
+		font-size: 30px;
+	}
+
+	.prod .icon {
+		margin-top: 65%;
+		margin-left: 20%;
+	}
+
+	.new-email-bx input::placeholder {
+		font-size: 0px;
+	}
+
+	.new-email-bx button {
+		padding: 3px;
+		width: 50px;
+		font-size: 11px;
+		display: flex;
+	}
+}
