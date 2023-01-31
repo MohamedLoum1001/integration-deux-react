@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/integration-deux-react/static/css/main.20feb37f.css",
+    "main.js": "/integration-deux-react/static/js/main.d694b290.js",
+    "static/js/787.fb8fa623.chunk.js": "/integration-deux-react/static/js/787.fb8fa623.chunk.js",
+    "static/media/thumb.png": "/integration-deux-react/static/media/thumb.96f9adf4251c57090e19.png",
+    "static/media/product2.png": "/integration-deux-react/static/media/product2.250f12ac557b286ebf50.png",
+    "static/media/product1.png": "/integration-deux-react/static/media/product1.756810360beb9c4359b9.png",
+    "static/media/product3.png": "/integration-deux-react/static/media/product3.1308ef48d9aca4a9f8cf.png",
+    "static/media/product4.png": "/integration-deux-react/static/media/product4.d10d04e7ece5c0cd2592.png",
+    "static/media/testimonial1.png": "/integration-deux-react/static/media/testimonial1.e4f79183e07acdabfd9e.png",
+    "static/media/testimonial2.png": "/integration-deux-react/static/media/testimonial2.d89d1d53ac1c79ed2063.png",
+    "static/media/logo.svg": "/integration-deux-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/integration-deux-react/index.html",
+    "main.20feb37f.css.map": "/integration-deux-react/static/css/main.20feb37f.css.map",
+    "main.d694b290.js.map": "/integration-deux-react/static/js/main.d694b290.js.map",
+    "787.fb8fa623.chunk.js.map": "/integration-deux-react/static/js/787.fb8fa623.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20feb37f.css",
+    "static/js/main.d694b290.js"
+  ]
+}
